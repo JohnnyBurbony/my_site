@@ -1,0 +1,10 @@
+*{
+    max-width: 1900px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin-bottom: 150px;
+    border: dashed purple;
+}
